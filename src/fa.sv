@@ -2,6 +2,7 @@
 //
 
 module fa_module
+    //CHE FIHGATA
     (
         input logic A,
         input logic B,
